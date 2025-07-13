@@ -24,6 +24,9 @@ A fully responsive and feature-rich **PHP-based e-commerce web application**, de
 ### 👩 Women's Category
 ![Women's Category](screenshots/category_women.jpeg)
 
+### ℹ️ About Page
+![About](screenshots/about.jpeg)
+
 ### 🛍️ Cart Page
 ![Cart](screenshots/cart.jpeg)
 
