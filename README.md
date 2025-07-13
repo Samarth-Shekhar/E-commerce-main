@@ -33,6 +33,7 @@ A fully responsive and feature-rich **PHP-based e-commerce web application**, de
 ### 🧾 Checkout Page
 ![Checkout](screenshots/checkout.jpeg)
 
+
 ---
 
 ## ⚙️ Getting Started
