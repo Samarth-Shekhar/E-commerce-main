@@ -61,7 +61,7 @@ A fully responsive and feature-rich **PHP-based e-commerce web application**, de
 ---
 
 ## 📁 Folder Structure
-
+```
 E-Commerce-main/
 │
 ├── css/ # Stylesheets
@@ -75,7 +75,7 @@ E-Commerce-main/
 ├── about.php
 └── index.php # Landing page
 
-
+```
 ---
 
 ## ✍️ Author
