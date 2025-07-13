@@ -19,17 +19,16 @@ A fully responsive and feature-rich **PHP-based e-commerce web application**, de
 ## 📸 Screenshots
 
 ### 🏠 Homepage  
-![Homepage](https://raw.githubusercontent.com/Samarth-Shekhar/E-commerce-main/main/screenshots/homepage.jpeg)
+![Image](https://github.com/user-attachments/assets/ef5e2c8a-9979-4e70-8ae8-0a02d9e72b08)
 
 ### 👩 Women's Category  
-![Women's Category](https://raw.githubusercontent.com/Samarth-Shekhar/E-commerce-main/main/screenshots/category_women.jpeg)
+![Image](https://github.com/user-attachments/assets/268dd774-243e-4146-9735-1cdca5141df6)
 
 ### 🛍️ Cart Page  
-![Cart](https://raw.githubusercontent.com/Samarth-Shekhar/E-commerce-main/main/screenshots/cart.jpeg)
+![Image](https://github.com/user-attachments/assets/2d98794a-e994-40e0-810a-44ee0afbb975)
 
 ### 🧾 Checkout Page  
-![Checkout](https://raw.githubusercontent.com/Samarth-Shekhar/E-commerce-main/main/screenshots/checkout.jpeg)
-
+![Image](https://github.com/user-attachments/assets/881a64a9-d7f8-4b9d-adcb-30fc90d1320b)
 
 ---
 
